@@ -1,0 +1,11 @@
+.app-container {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+.canvas-section, .preview-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
